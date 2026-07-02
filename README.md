@@ -1,5 +1,7 @@
 # Customer Churn → Uplift Modeling → Retention ROI Simulator
 
+**🔗 Live demo:** [churn-uplift-roi.streamlit.app](https://churn-uplift-roi.streamlit.app/)
+
 **Business problem:** Retention teams have a fixed budget and a churn model that ranks customers by risk. The standard playbook — offer discounts to the highest-risk customers — routinely wastes a large share of that budget, because *high risk of churning* and *responsive to an offer* are not the same thing. This project builds the model that tells the difference, and quantifies exactly how much that difference is worth in revenue.
 
 ---
